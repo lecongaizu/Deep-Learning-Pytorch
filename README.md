@@ -14,8 +14,7 @@ This repository provides tutorial code for deep learning researchers to learn Py
 2. Intermediate
 - CNN: Convolution Neural Networks
 - Deep Redidual Network 
-Todo 
-- Recurrent Neural Network 
+- Recurrent Neural Network ->> Todo 
 
 # Getting Started 
 
