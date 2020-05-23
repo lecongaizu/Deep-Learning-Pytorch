@@ -10,3 +10,24 @@ This repository provides tutorial code for deep learning researchers to learn Py
 - Linear Regression
 - Logistic Regression
 - Feedforward Neural Network
+
+2. Intermediate
+- CNN: Convolution Neural Networks
+- Deep Redidual Network 
+Todo 
+- Recurrent Neural Network 
+
+# Getting Started 
+
+$ git clone https://github.com/lecongaizu/Pytorch-Tutorials
+
+$ cd Pytorch-Tutorials/PATH_TO_PROJECT 
+
+$ python main.py
+
+# Dependencies 
+
+- Python 3.6
+- Pytorch 1.5.0
+
+
