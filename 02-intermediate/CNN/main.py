@@ -82,8 +82,6 @@ for epoch in range(num_epoch):
     avrage_loss.append(loss.item())
     step.append(epoch)
 
-# Save the model checkpoint
-torch.save(model.state_dict(), 'model.ckpt')
 # Plot loss network
 plt.plot(step, avrage_loss, label='Network loss')
 plt.legend()
