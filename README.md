@@ -15,10 +15,9 @@ This repository provides tutorial code for deep learning researchers to learn Py
 - CNN: Convolution Neural Networks
 - Deep Redidual Network 
 - Recurrent Neural Network  
-- Todo
 
 3. Advance 
-- Todo 
+- GAN: Generative adversarial networks 
 
 # Getting Started 
 
