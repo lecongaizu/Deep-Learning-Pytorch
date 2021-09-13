@@ -18,8 +18,7 @@ This repository provides tutorial code for deep learning researchers to learn Py
 
 3. Advance 
 - GAN: Generative adversarial networks 
-- VAE: Variational Autoencoder
-- TODO: DCGAN 
+- VAE: Variational Autoencoder 
 
 # Getting Started 
 
